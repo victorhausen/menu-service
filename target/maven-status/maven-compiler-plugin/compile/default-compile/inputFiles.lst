@@ -1,0 +1,10 @@
+/home/olist/Projects/olist/menu-service/src/main/java/com/example/eso_tcc_crawler/integration/AppServiceImpl.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/example/eso_tcc_crawler/integration/AppService.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/entities/Meal.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/example/eso_tcc_crawler/JavaApplication.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/example/eso_tcc_crawler/integration/AppServiceClient.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/example/eso_tcc_crawler/domain/DishService.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/example/eso_tcc_crawler/tasks/MealType.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/example/eso_tcc_crawler/integration/AppResponseDto.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/entities/Dish.java
+/home/olist/Projects/olist/menu-service/src/main/java/com/example/eso_tcc_crawler/tasks/ScheduledSearch.java

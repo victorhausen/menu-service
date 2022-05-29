@@ -1,0 +1,8 @@
+com/example/eso_tcc_crawler/domain/DishService.class
+com/example/eso_tcc_crawler/tasks/MealType.class
+com/example/eso_tcc_crawler/integration/AppService.class
+com/example/eso_tcc_crawler/tasks/ScheduledSearch.class
+com/entities/Dish.class
+com/example/eso_tcc_crawler/integration/AppResponseDto$AppResponseDtoBuilder.class
+com/example/eso_tcc_crawler/integration/AppResponseDto.class
+com/entities/Meal.class
